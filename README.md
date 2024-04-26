@@ -83,7 +83,7 @@ return 0;
 ## OUTPUT
 
 ## 1.To Write a C program that illustrates files copying 
-![alt text](2.png)
+![alt text](1.png)
 
 ## 2.To Write a C program that illustrates files locking
 ![alt text](2.png)
